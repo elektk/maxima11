@@ -1,5 +1,5 @@
                                     // task 1
-((5 >= 7) || ("javascript" != "java")) && !(((11 * 3) == 99) && true)
+// ((5 >= 7) || ("javascript" != "java")) && !(((11 * 3) == 99) && true)
 (5 >= 7) || ("javascript" != "java") // false || true = true
 ((11 * 3) == 99) && true // false && true = false
 true && !false 
@@ -17,7 +17,7 @@ if (age >= 18 && age <= 59) {
 } else if (age <= 17) {
     alert("Вам еще рано работать " + age)
 }
-                                    task 3
+                                    // task 3
 function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
